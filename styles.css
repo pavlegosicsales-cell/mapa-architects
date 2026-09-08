@@ -213,6 +213,14 @@ html.lenis body {
   pointer-events: none;
 }
 
+/* Scroll lock for the menu. Works with or without Lenis, so the page
+   behind the overlay stays put on a phone too. */
+html.is-locked,
+html.is-locked body {
+  overflow: hidden;
+  touch-action: none;
+}
+
 /* --------------------------------------------------------------------------
    3. Type presets
    -------------------------------------------------------------------------- */

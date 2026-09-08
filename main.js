@@ -25,14 +25,16 @@ const COUNTER_DROPS_FROM_ABOVE = true;
 
   let lenis = null;
 
-  if (!reduced && typeof window.Lenis === 'function') {
+  // Phones keep their native scrolling. Hijacking touch with syncTouch kills
+  // the momentum flick and makes the page feel worse, so Lenis is desktop only,
+  // which is what the reference site does too.
+  if (!reduced && bigScreen && typeof window.Lenis === 'function') {
     // lerp gives continuous inertia, which reads smoother than a fixed duration
     lenis = new window.Lenis({
       lerp: 0.055,
       wheelMultiplier: 0.85,
       smoothWheel: true,
-      syncTouch: true,
-      touchMultiplier: 1.4
+      syncTouch: false
     });
 
     const raf = (time) => {
@@ -119,7 +121,7 @@ const COUNTER_DROPS_FROM_ABOVE = true;
     const roll = menuToggle.querySelector('[data-roll], .roll');
     if (roll) setRollText(roll, 'Zatvori');
     if (lenis) lenis.stop();
-    document.documentElement.classList.add('lenis-stopped');
+    document.documentElement.classList.add('lenis-stopped', 'is-locked');
   }
 
   function closeMenu() {
@@ -130,7 +132,7 @@ const COUNTER_DROPS_FROM_ABOVE = true;
     const roll = menuToggle.querySelector('[data-roll], .roll');
     if (roll) setRollText(roll, 'Meni');
     if (lenis) lenis.start();
-    document.documentElement.classList.remove('lenis-stopped');
+    document.documentElement.classList.remove('lenis-stopped', 'is-locked');
   }
 
   if (menuToggle) {
