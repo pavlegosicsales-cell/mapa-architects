@@ -1,0 +1,35 @@
+{
+  "markdown": "- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n![](https://www.predragmilutinovic.com/sr/images/pm-logo-en.png)\n\n- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/footer-logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n[SR](https://www.predragmilutinovic.com/sr/awards.html)\n\n### AWARDS\n\n- ![](https://www.predragmilutinovic.com/sr/images/nagrade/02-nagrada-grada-beograda.jpg)\n\n- ![](https://www.predragmilutinovic.com/sr/images/nagrade/03-nagrada-novosti.jpg)\n\n- ![](https://www.predragmilutinovic.com/sr/images/nagrade/04-povelja-dans.jpg)\n\n- ![](https://www.predragmilutinovic.com/sr/images/nagrade/05-rigips.jpg)\n\n- ![](https://www.predragmilutinovic.com/sr/images/nagrade/01-rigips.jpg)\n\n\n- /",
+  "metadata": {
+    "description": "The Studio Mapa provides services in architectural design, exterior and interior design, as well as other related activities and consultancy services.",
+    "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+    "language": "en",
+    "robots": "index, follow",
+    "keywords": "predrag milutinovic, arhitekta, predrag milutinovic arhitekta, architect, mapa architects, auto centar, auto salon, arhitektonski studio, projektovanje, design management, upravljanje projektima, shoping mall, trzni centar, shopping mall, mapa",
+    "title": "Predrag Milutinović",
+    "favicon": "https://www.predragmilutinovic.com/sr/images/favicon.ico",
+    "scrapeId": "01a07eec-96d4-758c-8ba2-c2de1d84dd4b",
+    "sourceURL": "https://www.predragmilutinovic.com/awards.html",
+    "url": "https://www.predragmilutinovic.com/awards.html",
+    "statusCode": 200,
+    "contentType": "text/html",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "1d6931f2-c22c-4c6c-9a2a-8c53752082ba",
+    "creditsUsed": 1,
+    "concurrencyLimited": true,
+    "concurrencyQueueDurationMs": 3016
+  },
+  "images": [
+    "https://www.predragmilutinovic.com/sr/images/nagrade/04-povelja-dans.jpg",
+    "https://www.predragmilutinovic.com/sr/images/pm-logo-en.png",
+    "https://www.predragmilutinovic.com/sr/images/footer-logo.png",
+    "https://www.predragmilutinovic.com/sr/images/nagrade/01-rigips.jpg",
+    "https://www.predragmilutinovic.com/sr/images/logo.png",
+    "https://www.predragmilutinovic.com/sr/images/nagrade/02-nagrada-grada-beograda.jpg",
+    "https://www.predragmilutinovic.com/sr/images/nagrade/03-nagrada-novosti.jpg",
+    "https://www.predragmilutinovic.com/sr/images/nagrade/05-rigips.jpg"
+  ],
+  "warning": "This scrape job was throttled at your current concurrency limit. If you'd like to scrape faster, you can upgrade your plan."
+}

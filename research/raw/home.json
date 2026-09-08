@@ -1,0 +1,121 @@
+{
+  "markdown": "![](https://www.predragmilutinovic.com/sr/images/logo.png)\n\nEnter\n\n- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n![](https://www.predragmilutinovic.com/sr/images/pm-logo-en.png)\n\n- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/footer-logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n[SR](https://www.predragmilutinovic.com/sr/index.html)\n\n### [Architecture](https://www.predragmilutinovic.com/projects.html)\n\n#### [Day Care Center Sunce](https://www.predragmilutinovic.com/projekat-7-dnevni-boravak-sunce.html)\n\n### [Architecture](https://www.predragmilutinovic.com/projects.html)\n\n#### [Delta Motors](https://www.predragmilutinovic.com/projekat-13-bmw-mini.html)\n\n### [Competition](https://www.predragmilutinovic.com/projects.html)\n\n#### [Budva](https://www.predragmilutinovic.com/projekat-47-budva-rozino.html)\n\n### [Interior](https://www.predragmilutinovic.com/projects.html)\n\n#### [VILLA IB KRASICA CROATIA](https://www.predragmilutinovic.com/projekat-1-villa-ib.html)\n\n### [Architecture](https://www.predragmilutinovic.com/projects.html)\n\n#### [VILLA IB KRASICA CROATIA](https://www.predragmilutinovic.com/projekat-1-villa-ib.html)\n\n### [Architecture](https://www.predragmilutinovic.com/projects.html)\n\n#### [FORTUNA CENTER](https://www.predragmilutinovic.com/projekat-8-fortuna-centar.html)",
+  "branding": {
+    "colorScheme": "light",
+    "fonts": [
+      {
+        "family": "Inconsolata",
+        "role": "monospace"
+      }
+    ],
+    "colors": {
+      "primary": "#365F91",
+      "secondary": "#002060",
+      "accent": "#0000FF",
+      "background": "#FFFFFF",
+      "textPrimary": "#000000",
+      "link": "#0000FF"
+    },
+    "typography": {
+      "fontFamilies": {
+        "primary": "Inconsolata",
+        "heading": "Inconsolata"
+      },
+      "fontStacks": {
+        "heading": [
+          "Inconsolata"
+        ],
+        "body": [
+          "Inconsolata"
+        ],
+        "paragraph": [
+          "Inconsolata"
+        ]
+      },
+      "fontSizes": {
+        "h1": "12px",
+        "h2": "12px",
+        "body": "18px"
+      }
+    },
+    "spacing": {
+      "baseUnit": 4,
+      "borderRadius": "0px"
+    },
+    "components": {},
+    "images": {
+      "logo": "https://www.predragmilutinovic.com/sr/images/logo.png",
+      "favicon": "https://www.predragmilutinovic.com/sr/images/favicon.ico",
+      "ogImage": null,
+      "logoHref": "mapa.html"
+    },
+    "__llm_logo_reasoning": {
+      "selectedIndex": 0,
+      "reasoning": "Selected #0 because it is visible, medium-sized, located in the header, and matches the favicon source URL.",
+      "confidence": 0.9,
+      "source": "llm"
+    },
+    "personality": {
+      "tone": "professional",
+      "energy": "medium",
+      "targetAudience": "unknown"
+    },
+    "designSystem": {
+      "framework": "custom",
+      "componentLibrary": ""
+    },
+    "confidence": {
+      "buttons": 0,
+      "colors": 0.9,
+      "overall": 0.45
+    },
+    "__llm_metadata": {
+      "logoSelection": {
+        "llmCalled": true,
+        "llmSucceeded": true,
+        "finalSource": "llm",
+        "rawLogoSelection": {
+          "selectedLogoIndex": 0,
+          "selectedLogoReasoning": "Selected #0 because it is visible, medium-sized, located in the header, and matches the favicon source URL.",
+          "confidence": 0.9
+        }
+      },
+      "buttonClassification": {
+        "llmCalled": false,
+        "llmSucceeded": false
+      }
+    },
+    "brandName": "Mapa",
+    "logo": "https://www.predragmilutinovic.com/sr/images/logo.png"
+  },
+  "metadata": {
+    "language": "en",
+    "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+    "title": "Mapa  - Predrag Milutinović",
+    "robots": "index, follow",
+    "keywords": "predrag milutinovic, arhitekta, predrag milutinovic arhitekta, architect, mapa architects, auto centar, auto salon, arhitektonski studio, projektovanje, design management, upravljanje projektima, shoping mall, trzni centar, shopping mall, mapa",
+    "description": "The Studio Mapa provides services in architectural design, exterior and interior design, as well as other related activities and consultancy services.",
+    "favicon": "https://www.predragmilutinovic.com/sr/images/favicon.ico",
+    "scrapeId": "01a07eec-358c-752f-9a06-1590010b02f8",
+    "sourceURL": "https://www.predragmilutinovic.com/index.html",
+    "url": "https://www.predragmilutinovic.com/index.html",
+    "statusCode": 200,
+    "contentType": "text/html",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "indexId": "d271ae49-4fbe-4923-9a64-9b5dc91542b2",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  },
+  "images": [
+    "https://www.predragmilutinovic.com/sr/images/footer-logo.png",
+    "https://www.predragmilutinovic.com/sr/images/bg/01.jpg",
+    "https://www.predragmilutinovic.com/sr/images/bg/02.jpg",
+    "https://www.predragmilutinovic.com/sr/images/pm-logo-en.png",
+    "https://www.predragmilutinovic.com/sr/images/bg/06.jpg",
+    "https://www.predragmilutinovic.com/sr/images/bg/03.jpg",
+    "https://www.predragmilutinovic.com/sr/images/bg/05.jpg",
+    "https://www.predragmilutinovic.com/sr/images/logo.png",
+    "https://www.predragmilutinovic.com/sr/images/bg/04.jpg"
+  ]
+}

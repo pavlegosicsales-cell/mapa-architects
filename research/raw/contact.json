@@ -1,0 +1,30 @@
+{
+  "markdown": "- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n![](https://www.predragmilutinovic.com/sr/images/pm-logo-en.png)\n\n- [Home](https://www.predragmilutinovic.com/index.html)\n- [Biography](https://www.predragmilutinovic.com/biography.html)\n- [Projects](https://www.predragmilutinovic.com/projects.html)\n- [References](https://www.predragmilutinovic.com/references.html)\n- [Services](https://www.predragmilutinovic.com/services.html)\n- [Awards](https://www.predragmilutinovic.com/awards.html)\n- [Publications](https://www.predragmilutinovic.com/publication.html)\n- [Contact](https://www.predragmilutinovic.com/contact.html)\n\n[![](https://www.predragmilutinovic.com/sr/images/footer-logo.png)](https://www.predragmilutinovic.com/mapa.html)\n\n[SR](https://www.predragmilutinovic.com/sr/contact.html)\n\n### Contact :\n\n#### Belgrade office\n\n- [Mileševska 26, 11000](https://www.predragmilutinovic.com/contact.html#)\n- [+381 (65) 333-81-03](https://www.predragmilutinovic.com/contact.html#)\n- [office@mapaarch.com](https://www.predragmilutinovic.com/contact.html#)\n\n#### Follow us on:\n\n- [Facebook](https://www.facebook.com/predrag.milutinovic.92)\n- [Twitter](https://twitter.com/arhpedja)\n- [Instagram](https://www.instagram.com/mapa_architects/)\n\nSend\n\n- /",
+  "metadata": {
+    "title": "Predrag Milutinović",
+    "language": "en",
+    "robots": "index, follow",
+    "keywords": "predrag milutinovic, arhitekta, predrag milutinovic arhitekta, architect, mapa architects, auto centar, auto salon, arhitektonski studio, projektovanje, design management, upravljanje projektima, shoping mall, trzni centar, shopping mall, mapa",
+    "description": "The Studio Mapa provides services in architectural design, exterior and interior design, as well as other related activities and consultancy services.",
+    "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+    "favicon": "https://www.predragmilutinovic.com/sr/images/favicon.ico",
+    "scrapeId": "01a07eec-9659-728d-bb96-f5a4d0e6b16a",
+    "sourceURL": "https://www.predragmilutinovic.com/contact.html",
+    "url": "https://www.predragmilutinovic.com/contact.html",
+    "statusCode": 200,
+    "contentType": "text/html",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "5e8e6987-ba2d-4152-9452-78663d133691",
+    "creditsUsed": 1,
+    "concurrencyLimited": true,
+    "concurrencyQueueDurationMs": 7356
+  },
+  "images": [
+    "https://www.predragmilutinovic.com/sr/images/footer-logo.png",
+    "https://www.predragmilutinovic.com/sr/images/pm-logo-en.png",
+    "https://www.predragmilutinovic.com/sr/images/logo.png"
+  ],
+  "warning": "This scrape job was throttled at your current concurrency limit. If you'd like to scrape faster, you can upgrade your plan."
+}
